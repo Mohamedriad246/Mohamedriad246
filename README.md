@@ -31,3 +31,10 @@ silently with the teleprompter.
 
 This is an animated, stylized presenter — not a photorealistic AI video of a
 real person. It renders and speaks entirely in the browser.
+
+---
+
+# Top Notch promo video
+
+See [`marketing-video/`](marketing-video/) — a 32-second bilingual promo in
+16:9 and 9:16, rendered from code (HTML animation + synthesized soundtrack).
